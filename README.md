@@ -1,6 +1,7 @@
 # TorrentRemote (qbitremote)
 
-蜂巢用户@hjw666
+<a id="author"></a>
+**作者 / Maintainer：蜂巢 @hjw666**（[蜂巢个人主页](https://pting.club/users/hjw666)）—— 本仓库 `TorrentRemote` 由我独立开发与维护。
 
 [![CI](https://github.com/smhjw/qbitremote/actions/workflows/ci.yml/badge.svg)](https://github.com/smhjw/qbitremote/actions/workflows/ci.yml)
 
