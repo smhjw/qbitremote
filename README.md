@@ -1,5 +1,7 @@
 # TorrentRemote (qbitremote)
 
+蜂巢用户@hjw666
+
 [![CI](https://github.com/smhjw/qbitremote/actions/workflows/ci.yml/badge.svg)](https://github.com/smhjw/qbitremote/actions/workflows/ci.yml)
 
 `TorrentRemote` 是一款用 Kotlin + Jetpack Compose 编写的 Android 应用，可在一台手机上远程管理多台 qBittorrent 与 Transmission 服务器。
